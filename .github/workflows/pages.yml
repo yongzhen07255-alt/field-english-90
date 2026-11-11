@@ -21,12 +21,23 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Download and verify course
+      - name: Checkout verified course release
+        uses: actions/checkout@v4
+      - name: Verify and unpack complete v2 course
         run: |
-          curl --fail --silent --show-error --location --retry 2 --proto '=https' --tlsv1.2 'https://field-english-90.yongzhen07255.chatgpt.site/releases/field-english-90-v1.zip' -o course.zip
-          echo '4bc4997e6501a98876851bdee01deb0b518e9f78b2a356267dad6cac4e9eb814  course.zip' | sha256sum --check
           mkdir _site
-          unzip -q course.zip -d _site
+          cat releases/v2/field-english-90-v2-part01.zip.* > part1.zip
+          echo 'd6ccb988b9c4a5dacd605a7596d5f9185a45b4d5b2e319736a314b5111586b93  part1.zip' | sha256sum --check
+          unzip -q part1.zip -d _site
+          cat releases/v2/field-english-90-v2-part02.zip.* > part2.zip
+          echo '67de7e48a1d038ebf6e5c0e61f6a3b07f0932cb45a8ddbbdbcb68889ba4962fc  part2.zip' | sha256sum --check
+          unzip -q part2.zip -d _site
+          cat releases/v2/field-english-90-v2-part03.zip.* > part3.zip
+          echo '04f94d043947710cc22fc07d47ddcd640cd58f932e320ef38f4f5f62aff735bc  part3.zip' | sha256sum --check
+          unzip -q part3.zip -d _site
+          cat releases/v2/field-english-90-v2-part04.zip.* > part4.zip
+          echo 'a921121a2ad72c2a787008fd354e4de8ba67fac75d96b68bbcd18841e8c00b86  part4.zip' | sha256sum --check
+          unzip -q part4.zip -d _site
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload website

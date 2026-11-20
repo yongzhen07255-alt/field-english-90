@@ -1,0 +1,90 @@
+1|This gateway connects our shop to the internet. ~这台网关把我们的门店连到互联网。
+2|The outage lasted fifteen minutes. ~断网持续了十五分钟。
+3|I can show you the routing table. ~我可以给你看路由表。
+4|Only the primary link carries traffic normally. ~平时只有主线路承载流量。
+5|Yes. The warehouse gateway needs a check. ~对。仓库网关需要检查。
+6|Our cashier can run the test at noon. ~收银员可以在中午做测试。
+7|Our shift leader will record the time. ~我们班组长会记录时间。
+8|The printers use ports four to six. ~打印机用四到六号端口。
+9|Our tills use the payment VLAN. ~收银机使用支付 VLAN。
+10|Each new camera needs twelve watts. ~每台新摄像头需要十二瓦。
+11|I'll show you the counters after lunch. ~我午饭后给你看计数器。
+12|Yesterday's cable move is in the change history. ~昨天的挪线操作记在变更记录里。
+13|Please include our site manager. ~请把现场经理也加进邀请。
+14|Our security guard can check the feeds. ~保安可以检查摄像头画面。
+15|It happens beside the stockroom door. ~问题发生在库房门旁边。
+16|The tablets share this channel with our phones. ~平板和手机共用这个信道。
+17|Please start with my work phone. ~请先用我的工作手机。
+18|Our guests only need internet access. ~我们的访客只需要上网。
+19|Please come back at half past twelve. ~请十二点半再过来。
+20|I check the order with the kitchen. ~我会和厨房核对订单。
+21|I can note each gap on this plan. ~我可以在平面图上标出每次中断的位置。
+22|The buildings are four hundred metres apart. ~两栋楼相隔四百米。
+23|Our engineer will calculate the margin. ~工程师会计算所需余量。
+24|We can start all six cameras tonight. ~我们今晚可以启动全部六台摄像头。
+25|The grounding point is beside the cable entry. ~接地点在进线口旁边。
+26|I'll bring both logs to the meeting. ~我会把两端的日志都带到会上。
+27|Let's meet at the front gate. ~我们在正门碰面吧。
+28|The evening shift has the usual camera load. ~晚班时摄像头是平时的负载。
+29|I've marked the bedroom and the sitting room. ~我标出了卧室和客厅。
+30|I have a spare cable in the study. ~我书房里有一根备用网线。
+31|The shelf leaves the stairs clear. ~放在架子上不会挡住楼梯。
+32|Yes. The warning appears in the network settings. ~有。提示出现在网络设置里。
+33|The setup screen shows a connection error. ~设置界面提示连接错误。
+34|Thanks. I'll move a few personal things. ~谢谢。我先收一下私人物品。
+35|We can put the node on this shelf. ~我们可以把节点放在这个架子上。
+36|I'll add both alerts to the timeline. ~我会把两条告警都加到时间线上。
+37|The window starts at ten tonight. ~维护窗口今晚十点开始。
+38|Our duty manager handles urgent cases. ~我们的值班经理处理紧急问题。
+39|I'll bring the support costs for three years. ~我会带上三年的支持费用。
+40|We need payments back within a minute. ~我们需要在一分钟内恢复支付。
+41|I'll add the installer's phone number. ~我会加上安装商的电话号码。
+42|Our branch manager can approve the spare. ~分店经理可以批准采购备用设备。
+43|Yes. Checkout comes first for us. ~可以。收银对我们最优先。
+44|Let's review it after the pilot. ~试点结束后我们再看吧。
+45|We want payments back within thirty seconds. ~我们希望支付能在三十秒内恢复。
+46|We can collect the traffic figures at noon. ~我们可以在中午采集流量数据。
+47|I can bring a second scanner tonight. ~我今晚可以带第二把扫描枪来。
+48|I'll mark each gap during the walk. ~我会在行走过程中记录每次声音中断。
+49|Both shift leaders can join tomorrow. ~两个班组长明天都可以参加。
+50|Please mark the trees near the east roof. ~请标出东侧屋顶附近的树。
+51|I'll list the cable work separately. ~我会把线缆施工单独列出。
+52|The evening backup starts at eight. ~晚间备份八点开始。
+53|I'll bring the crane schedule tomorrow. ~我明天会带起重机作业时间表。
+54|Both sites are available on Monday. ~两个站点周一都可以测试。
+55|Please meet us at the east gate. ~请到东门和我们碰面。
+56|Our security manager can sign off. ~我们的安保经理可以签字确认。
+57|Let's test during our usual film time. ~我们就在平时看电影的时段测吧。
+58|I'll mark both routers on the drawing. ~我会在图上标出两台路由器。
+59|I have the manual on my phone. ~我的手机里有说明书。
+60|I saved the release notes yesterday. ~我昨天保存了版本说明。
+61|I'll use the same phone upstairs. ~我到楼上也会用同一部手机。
+62|Thanks. I've stopped sharing my screen. ~谢谢。我已经停止共享屏幕了。
+63|I can hear every word now. ~现在每个字我都听得清楚。
+64|Our cashier can try a small payment. ~我们的收银员可以试付一笔小额款。
+65|Both offices use the same private subnet. ~两个办公室使用相同的私有子网。
+66|We can count the gaps during each call. ~我们可以统计每通电话的声音中断次数。
+67|They can view the log without editing it. ~他们可以查看日志，不能修改。
+68|Our branch team can repeat it on Tuesday. ~我们的分支团队可以在周二再测一次。
+69|Thanks. I'll check the time with our manager. ~谢谢。我会和经理核对时间。
+70|I'll add a payment check after failover. ~我会加上线切换后的支付检查。
+71|Each camera needs about ten watts. ~每台摄像头大约需要十瓦。
+72|We can export both logs this afternoon. ~我们今天下午可以导出两份日志。
+73|We have one rack unit left. ~机架还剩一个 U 的空间。
+74|I'd use one in a small flat. ~我会在小公寓里用家用路由器。
+75|Our operations manager sets the priorities. ~运营经理决定优先顺序。
+76|I have half an hour before lunch. ~午饭前我有半小时。
+77|I have both support agreements here. ~两份支持协议我都带来了。
+78|Tuesday morning suits our cashiers. ~我们的收银员周二上午方便。
+79|We can use the same eight cameras again. ~我们可以再用原来的八台摄像头。
+80|Our evening supervisor noticed it too. ~我们的晚班主管也注意到了。
+81|Please set Friday as the deadline. ~请把周五定为截止时间。
+82|Please test the four camera ports. ~请测试四个摄像头端口。
+83|Please call after lunch next Wednesday. ~请下周三午饭后打电话。
+84|Our operations lead will sign off. ~我们的运营负责人会确认。
+85|A short email would suit me best. ~给我发封简短的邮件最合适。
+86|Please check the power log first. ~请先查供电日志。
+87|I'd put it near the packing tables. ~我会把它装在打包台附近。
+88|Our regional manager can approve it. ~我们的区域经理可以批准。
+89|Please include the dates in your email. ~请在邮件里写上日期。
+90|Please send it before our afternoon meeting. ~请在我们的下午会议前发来。

@@ -1,0 +1,345 @@
+1|We need some business context. ~我们需要了解一些业务背景。
+2|Can I see your current setup?~我能看看你们现有的部署吗？
+3|Slow payments disrupt our day-to-day operations. ~支付慢会干扰我们的日常运营。
+4|Who is the decision maker here?~这里的决策人是谁？
+5|Long queues are our biggest pain point. ~排长队是我们最大的痛点。
+6|Please walk me through one order. ~请带我一步步看一笔订单。
+7|Our gateway connects both offices. ~我们的网关连接两间办公室。
+8|We lost our WAN connection at noon. ~我们的广域网连接中午断了。
+9|Our tills use a separate LAN subnet. ~收银机使用单独的局域网子网。
+10|Who is our point of contact?~谁是我们的对接人？
+11|Tell me about a recent incident. ~请讲讲最近的一次事件。
+12|The service outage lasted ten minutes. ~服务中断持续了十分钟。
+13|We called the affected users. ~我们给受影响的用户打了电话。
+14|What was the business impact?~这对业务有什么影响？
+15|We found a temporary workaround. ~我们找到了临时解决办法。
+16|Please record the recovery time. ~请记录恢复时间。
+17|Our tills slow down during peak hours. ~我们的收银机在高峰时段会变慢。
+18|Do you have any evidence?~你有相关证据吗？
+19|May I ask a follow-up question?~我可以再追问一句吗？
+20|This router is our default gateway. ~这台路由器是我们的默认网关。
+21|What is the printer's IP address?~打印机的 IP 地址是多少？
+22|The phone renewed its DHCP lease. ~手机续订了 DHCP 租约。
+23|The DNS lookup took two seconds. ~这次 DNS 查询用了两秒。
+24|Our home router uses NAT. ~我们的家用路由器启用了 NAT。
+25|This firewall rule blocks guest access. ~这条防火墙规则阻止访客访问。
+26|Can we check the routing table?~我们可以看一下路由表吗？
+27|We test failover every Friday. ~我们每周五测试故障切换。
+28|We use load balancing across both links. ~我们在两条线路间做负载均衡。
+29|The primary link carries our payments. ~主线路承载支付业务。
+30|We tested the backup link yesterday. ~我们昨天测试了备用线路。
+31|The health check failed twice. ~健康检查失败了两次。
+32|The restart ended my active session. ~重启结束了我的活动会话。
+33|The branch uses a VPN tunnel. ~分支使用 VPN 隧道。
+34|Let's agree on the acceptance criteria. ~我们来商定验收标准吧。
+35|May I clarify a point?~我可以澄清一点吗？
+36|Please bear with me for a moment. ~请稍等我一下。
+37|I'll hand over to our installer. ~接下来请我们的安装商讲。
+38|Shall we wrap up here?~我们谈到这里好吗？
+39|How much bandwidth do you need?~你们需要多少带宽？
+40|We measured throughput on this link. ~我们测了这条链路的吞吐量。
+41|High latency slows down our calls. ~高延迟会让我们的通话出现延时。
+42|The test showed some packet loss. ~测试发现了一些丢包。
+43|Please use the same test conditions. ~请使用相同的测试条件。
+44|What was the scope of impact?~影响范围有多大？
+45|We recorded the frequency of outages. ~我们记录了断网频率。
+46|How do you rate the severity?~你怎么评估严重程度？
+47|We still need the root cause. ~我们还需要找出根因。
+48|Our access switch powers the phones. ~我们的接入交换机给电话供电。
+49|The uplink is our bottleneck. ~上联是我们的瓶颈。
+50|The phones use a separate VLAN. ~电话使用单独的 VLAN。
+51|This printer uses an access port. ~这台打印机使用接入端口。
+52|This trunk port carries three VLANs. ~这个中继端口承载三个 VLAN。
+53|We saw tagged traffic on the uplink. ~我们在上联看到带标签的流量。
+54|This phone sends untagged traffic. ~这部电话发送不带标签的流量。
+55|Can you check the MAC address?~你可以核对 MAC 地址吗？
+56|Our cameras get power through PoE. ~我们的摄像头通过 PoE 供电。
+57|What is the switch's power budget?~交换机的供电预算是多少？
+58|Each powered device needs a port. ~每个受电设备都需要一个端口。
+59|We need power headroom for new cameras. ~我们需要为新摄像头预留供电余量。
+60|How long is this cable run?~这段走线有多长？
+61|The dashboard shows the link status. ~看板显示链路状态。
+62|Which uplink port serves the office?~哪个上联端口连接办公室？
+63|This downlink port serves the printer. ~这个下联端口连接打印机。
+64|Can we check the port speed?~我们可以检查端口速率吗？
+65|Link aggregation combines two links here. ~这里通过链路聚合将两条链路合并。
+66|The warehouse uses a fiber uplink. ~仓库使用光纤上联。
+67|The log shows a duplex mismatch. ~日志显示双工不匹配。
+68|We checked the port counters yesterday. ~我们昨天检查了端口计数器。
+69|Our engineer enabled port mirroring. ~工程师启用了端口镜像。
+70|A spare cable caused a network loop. ~一根多余的线造成了网络环路。
+71|We enabled spanning tree on both switches. ~我们在两台交换机上启用了生成树。
+72|The switch reported heavy broadcast traffic. ~交换机报告了大量广播流量。
+73|The patch panel is inside this rack. ~配线架在这个机柜里。
+74|Please check the change history. ~请检查变更记录。
+75|Can you reproduce the problem here?~你能在这里复现这个问题吗？
+76|Our manager can arrange site access. ~我们的经理可以安排现场准入。
+77|Is there an appointment slot on Friday?~周五有可以预约的时段吗？
+78|Can we reschedule for Wednesday?~我们可以改到周三吗？
+79|Who is our on-site contact?~我们的现场联系人是谁？
+80|The maintenance window starts at ten. ~维护窗口十点开始。
+81|This wireless access point serves reception. ~这个无线接入点为前台提供 Wi-Fi。
+82|We need better coverage upstairs. ~楼上需要更好的覆盖。
+83|The stockroom has a dead zone. ~库房里有一处信号盲区。
+84|Which client device lost its connection?~哪台终端设备掉线了？
+85|Please measure signal strength here. ~请测一下这里的信号强度。
+86|Clear calls are a basic customer expectation. ~通话清晰是客户的基本期望。
+87|Which radio band does it use?~它用哪个频段？
+88|We reduced the channel width yesterday. ~我们昨天调小了信道宽度。
+89|Channel utilization rises at lunchtime. ~午饭时信道利用率会上升。
+90|We saw co-channel interference upstairs. ~我们在楼上发现了同频干扰。
+91|These cameras use most of the airtime. ~这些摄像头占用了大部分空口时间。
+92|What is the signal-to-noise ratio here?~这里的信噪比是多少？
+93|We reduced transmit power near reception. ~我们调低了前台附近的发射功率。
+94|The retry rate rose at noon. ~重试率在中午上升了。
+95|This room needs more wireless capacity. ~这个房间需要更大的无线容量。
+96|We scheduled a site survey for Friday. ~我们安排在周五做现场勘测。
+97|We tested roaming along the corridor. ~我们沿着走廊测试了漫游。
+98|The call test showed a handover delay. ~通话测试发现了切换延迟。
+99|This sticky client keeps its old connection. ~这台黏性终端一直保持原来的连接。
+100|We tested band steering on two phones. ~我们用两部手机测试了频段引导。
+101|Which SSID do guests use?~访客用哪个 SSID？
+102|We measured application response time at noon. ~我们在中午测了应用响应时间。
+103|Visitors use our guest network. ~访客使用我们的访客网络。
+104|The captive portal shows a sign-in page. ~认证门户会显示登录页。
+105|We enabled client isolation for guests. ~我们为访客启用了终端隔离。
+106|Staff accounts need authentication. ~员工账号需要身份验证。
+107|This connection uses encryption. ~这条连接使用加密。
+108|We need a wired baseline first. ~我们先需要一份有线基线。
+109|Yesterday's test gives us a baseline. ~昨天的测试为我们提供了基线。
+110|We track task completion during each test. ~我们在每次测试中跟踪任务完成情况。
+111|That sounds like a leading question. ~这听起来像个诱导性问题。
+112|Start with an open-ended question. ~先问一个开放式问题。
+113|The wireless bridge links both buildings. ~无线网桥连通了两栋楼。
+114|This point-to-point link serves one warehouse. ~这条点对点链路连接一个仓库。
+115|We use a point-to-multipoint layout here. ~我们在这里采用点对多点布局。
+116|What is the link distance?~这条链路的距离是多少？
+117|The fence marks the site boundary. ~围栏标出了场地边界。
+118|Roof access is our main installation constraint. ~屋顶准入是我们安装时最大的限制。
+119|This camera sends one video stream. ~这台摄像头发送一路视频流。
+120|The cameras generate upstream traffic. ~摄像头产生上行流量。
+121|Those trees block our line of sight. ~那些树挡住了我们的视线。
+122|Check the clearance around the Fresnel zone. ~请检查菲涅耳区的净空。
+123|A crane is our main obstruction. ~一台起重机是主要遮挡物。
+124|Our installer checked the antenna alignment. ~安装商检查了天线对准情况。
+125|What antenna gain did you specify?~你们指定了多大的天线增益？
+126|Please confirm the mounting height. ~请确认安装高度。
+127|The engineer calculated the link budget. ~工程师计算了链路预算。
+128|This design needs more fade margin. ~这个设计需要更大的衰落余量。
+129|We measured the noise floor on site. ~我们在现场测了底噪。
+130|The display shows the received signal level. ~屏幕显示接收信号电平。
+131|Each camera uses a different bitrate. ~每台摄像头采用不同的码率。
+132|Downloads generate downstream traffic. ~下载产生下行流量。
+133|We checked link stability overnight. ~我们整晚检查了链路稳定性。
+134|The outdoor unit needs a weatherproof enclosure. ~室外设备需要防水防尘的外壳。
+135|Does this installation include surge protection?~这次安装包含浪涌保护吗？
+136|Our electrician checked the grounding. ~电工检查了接地。
+137|This PoE injector powers the bridge. ~这个 PoE 供电器给网桥供电。
+138|Where is the Ethernet handoff?~以太网交接点在哪里？
+139|What operating temperature does the unit support?~这台设备支持怎样的工作温度？
+140|Our installer checked the wind load. ~安装商检查了风荷载。
+141|The mounting bracket holds the antenna. ~安装支架固定着天线。
+142|Do we have a fallback plan?~我们有备用方案吗？
+143|Who can arrange roof access?~谁能安排进入屋顶？
+144|We expect a weather delay today. ~今天可能因天气而延误。
+145|The installer completed the risk assessment. ~安装商完成了风险评估。
+146|Our home router sits downstairs. ~我家的路由器放在楼下。
+147|Video calls add to our household workload. ~视频通话增加了家庭网络负载。
+148|Please mark the study on this floor plan. ~请在这张平面图上标出书房。
+149|We measured wall attenuation in the bedroom. ~我们在卧室测了墙体衰减。
+150|The study has a wired outlet. ~书房里有个网线接口。
+151|Which internet plan do you have?~你办的是哪种宽带套餐？
+152|We moved the mesh node upstairs. ~我们把 Mesh 节点移到了楼上。
+153|The main router sits near the stairs. ~主路由器放在楼梯旁边。
+154|Our study uses wired backhaul. ~我们书房使用有线回程。
+155|The upstairs node uses wireless backhaul. ~楼上的节点采用无线回程。
+156|What backhaul capacity do you need?~你需要多大的回程容量？
+157|We tested node placement in three rooms. ~我们在三个房间测试了节点摆位。
+158|The landing is a central location. ~楼梯平台的位置比较居中。
+159|Let's check device compatibility first. ~我们先检查设备兼容性吧。
+160|The main unit uses router mode. ~主设备使用路由模式。
+161|The second unit uses access point mode. ~第二台设备使用接入点模式。
+162|Our console reports double NAT. ~我们的游戏机提示双重 NAT。
+163|Please check the provider modem first. ~请先检查运营商提供的调制解调器。
+164|Which smart-home device needs help?~哪台智能家居设备需要处理？
+165|We tested device onboarding on my phone. ~我们用我的手机测试了设备首次入网。
+166|This old printer is a legacy device. ~这台旧打印机是老设备。
+167|This switch supports local control. ~这台交换机支持本地控制。
+168|Does the doorbell have a cloud dependency?~这款门铃依赖云服务吗？
+169|Please enter the admin password yourself. ~请你自己输入管理员密码。
+170|We use parental controls in the evening. ~我们在晚上使用家长控制。
+171|I noticed a connection drop at nine. ~我在九点注意到一次掉线。
+172|Can we enable guest access?~我们可以启用访客接入吗？
+173|Reception recorded the visitor arrival time. ~前台记录了访客到达时间。
+174|Is this a suitable moment?~现在方便吗？
+175|We need a quiet space for this call. ~我们打这个电话需要一个安静的地方。
+176|Please take a minute to settle in. ~请先坐一会儿，安顿一下。
+177|What is your privacy preference for photos?~对于拍照，你希望怎样保护隐私？
+178|Let's build an incident timeline. ~我们来梳理一下事件时间线吧。
+179|The log confirms service restoration at noon. ~日志确认服务在中午恢复。
+180|The diagnostic log shows two restarts. ~诊断日志显示重启了两次。
+181|We received a monitoring alert at nine. ~我们在九点收到一条监控告警。
+182|Yesterday's warning was a false alarm. ~昨天的告警是误报。
+183|Please save a configuration backup first. ~请先保存一份配置备份。
+184|We scheduled the firmware update for Friday. ~我们把固件升级安排在周五。
+185|Who can approve a rollback?~谁可以批准回退？
+186|We need change approval from the manager. ~我们需要经理批准这次变更。
+187|Our support team needs remote access. ~我们的支持团队需要远程访问。
+188|I opened a support ticket yesterday. ~我昨天开了一个支持工单。
+189|Who owns the escalation path?~谁负责升级求助流程？
+190|Does support coverage include weekends?~支持服务覆盖周末吗？
+191|Please add that to the handover note. ~请把这一点加到交接记录中。
+192|We compared the lifecycle cost of both options. ~我们比较了两种方案的生命周期成本。
+193|Is there a monthly subscription fee?~有月度订阅费吗？
+194|The warranty period lasts three years. ~保修期为三年。
+195|What is the lead time for replacements?~替换设备的交付周期是多久？
+196|The replacement unit arrived today. ~替换设备今天到了。
+197|We keep this spare part on site. ~我们在现场备有这个零件。
+198|Who manages the procurement process?~谁负责采购流程？
+199|Delivery time is our main purchase constraint. ~交付时间是我们采购的主要限制。
+200|Who is the budget owner?~谁是预算负责人？
+201|Let's start with a small proof of concept. ~我们先做一个小规模的概念验证吧。
+202|We track service availability every month. ~我们每月跟踪服务可用性。
+203|This uplink is a single point of failure. ~这条上联是一个单点故障隐患。
+204|The second link adds redundancy. ~第二条链路增加了冗余。
+205|What unmet need comes first?~哪项未满足的需求最优先？
+206|Reliable payments are a must-have. ~稳定的支付是必需条件。
+207|A custom logo is a nice-to-have. ~自定义标志是加分项。
+208|Can we check the priority ranking?~我们可以核对优先级排序吗？
+209|Please write a short requirement statement. ~请写一条简短的需求描述。
+210|What trade-off can you accept?~你能接受怎样的取舍？
+211|The pilot has one external dependency. ~试点有一项外部依赖。
+212|I updated the decision record. ~我更新了决策记录。
+213|Can we test that assumption?~我们能验证这个假设吗？
+214|Recovery time is our success measure. ~恢复时间是我们评估成功的指标。
+215|Who will write the validation plan?~谁来写验证计划？
+216|The pilot scope covers two shops. ~试点范围包括两家门店。
+217|We need more wireless capacity at lunch. ~午饭时我们需要更大的无线容量。
+218|How many concurrent clients do you expect?~你们预计同时在线多少台终端？
+219|Airtime utilization rises during backups. ~备份期间空口利用率会上升。
+220|Client capability varies across these phones. ~这些手机的终端能力各不相同。
+221|We recorded peak-hour traffic yesterday. ~我们昨天记录了高峰时段的流量。
+222|The stockroom has a coverage gap. ~库房有一处覆盖缺口。
+223|We checked roaming behavior on two phones. ~我们检查了两部手机的漫游表现。
+224|The recording shows a short roaming interruption. ~录音中有一次短暂的漫游中断。
+225|We measured the authentication delay. ~我们测了认证延迟。
+226|The phone shows received signal strength. ~手机显示接收信号强度。
+227|Let's check access point placement upstairs. ~我们来检查楼上的接入点位置吧。
+228|Which guest SSID should I choose?~我应该选哪个访客 SSID？
+229|This node has a wired uplink. ~这个节点有有线上联。
+230|The call test showed high jitter. ~通话测试显示抖动很大。
+231|How was the call quality upstairs?~楼上的通话质量怎么样？
+232|That tree is a path obstruction. ~那棵树是传播路径上的遮挡物。
+233|Can you give me a recent example?~你能举个近期的例子吗？
+234|The injector needs an outdoor enclosure here. ~这里的供电器需要室外防护箱。
+235|The installer fitted a weatherproof connector. ~安装商装了一个防水接头。
+236|Where is the grounding point?~接地点在哪里？
+237|Please mark the cable entry here. ~请在这里标出进线口。
+238|The signal level dropped last night. ~昨晚的信号电平下降了。
+239|We measured link availability for a week. ~我们连续一周测量了链路可用性。
+240|This uplink carries all camera traffic. ~这条上联承载所有摄像头流量。
+241|We found an uplink bottleneck. ~我们发现了一个上联瓶颈。
+242|Let's run an end-to-end test. ~我们来做一次端到端测试吧。
+243|The spectrum scan shows interference. ~频谱扫描显示存在干扰。
+244|Who can update the channel plan?~谁可以更新信道规划？
+245|This bridge pair connects both roofs. ~这对网桥连接两个屋顶。
+246|The remote endpoint is on the barn. ~远端设备在谷仓上。
+247|What is your current workaround?~你们目前的临时解决办法是什么？
+248|Our safety briefing starts at nine. ~我们的安全说明会九点开始。
+249|Can we reschedule the visit for Friday?~我们能把拜访改到周五吗？
+250|Who is the local contact?~当地联系人是谁？
+251|I'll confirm the travel arrangements today. ~我今天会确认行程安排。
+252|What is our next step?~我们下一步做什么？
+253|Does the scope of work include cabling?~工作范围包括布线吗？
+254|Who is your internet service provider?~你的互联网服务商是哪家？
+255|Which broadband plan do you use?~你用哪种宽带套餐？
+256|Please record the frequency and duration. ~请记录频率和持续时间。
+257|Can you describe the affected workflow?~你能描述受影响的工作流程吗？
+258|Which DNS server does this device use?~这台设备使用哪个 DNS 服务器？
+259|The cable uses this Ethernet port. ~这根线接在这个以太网口上。
+260|We set an address reservation for the printer. ~我们为打印机设置了地址保留。
+261|Our camera system uses port forwarding. ~我们的摄像系统使用端口转发。
+262|The installer ran a cable test. ~安装商做了线缆测试。
+263|We still need the underlying cause. ~我们还需要找出深层原因。
+264|What network name appears on your phone?~你的手机显示的网络名称是什么？
+265|Does the printer support WPA3 security?~这台打印机支持 WPA3 安全模式吗？
+266|We collected user feedback after lunch. ~我们在午饭后收集了用户反馈。
+267|A factory reset clears local settings. ~恢复出厂设置会清除本地设置。
+268|Please write down the recovery steps. ~请记下恢复步骤。
+269|The status indicator flashed orange. ~状态指示灯闪橙色。
+270|I read the release notes this morning. ~我今天早上读了版本说明。
+271|Do you have a rollback plan?~你们有回退方案吗？
+272|Let's run a speed test upstairs. ~我们去楼上做一次测速吧。
+273|We need a baseline measurement first. ~我们先需要一次基线测量。
+274|When can we start remote support?~我们何时可以开始远程支持？
+275|Is Friday a convenient time?~周五方便吗？
+276|You can stop screen sharing now. ~现在可以停止共享屏幕了。
+277|Please hide any sensitive information. ~请隐藏敏感信息。
+278|Shall we take a short break?~我们休息一会儿好吗？
+279|May I have your contact details?~可以留一下你的联系方式吗？
+280|Which time zone should I use?~我应该用哪个时区？
+281|I'll record the agreed action. ~我会记录商定的行动。
+282|Please confirm the owner and deadline. ~请确认负责人和截止时间。
+283|Our gateway supports dual-WAN. ~我们的网关支持双 WAN。
+284|This service needs session persistence. ~这项服务需要会话保持。
+285|The branch uses policy-based routing. ~分支使用基于策略的路由。
+286|Our branches use a site-to-site VPN. ~我们的分支使用站点到站点 VPN。
+287|Staff use a remote-access VPN from home. ~员工在家通过远程接入 VPN 办公。
+288|We measured encryption overhead on the gateway. ~我们在网关上测量了加密开销。
+289|The log shows a tunnel reconnect. ~日志显示隧道重新连接了一次。
+290|Does this site have a public IP address?~这个站点有公网 IP 地址吗？
+291|The two offices use overlapping subnets. ~这两间办公室使用了重叠子网。
+292|Does your team need split tunneling?~你们团队需要分流隧道吗？
+293|Remote access requires multi-factor authentication. ~远程访问需要多因素认证。
+294|The NAT table shows active entries. ~NAT 表显示活动条目。
+295|We use traffic shaping for backups. ~我们对备份流量做流量整形。
+296|Who sets the application priority?~谁设置应用优先级？
+297|Fast recovery is a must-have requirement. ~快速恢复是一项必需需求。
+298|This test uses a representative workload. ~这个测试采用有代表性的负载。
+299|One missing log leaves an evidence gap. ~缺少一份日志，证据就不完整。
+300|Shorter queues are a measurable outcome. ~队伍变短是一个可衡量的结果。
+301|Our support desk uses role-based access. ~我们的支持台采用基于角色的访问控制。
+302|The audit log records each change. ~审计日志记录每次变更。
+303|Which link carries management plane traffic?~哪条链路承载管理平面流量？
+304|Who handles remote management at night?~夜间谁负责远程管理？
+305|We raised the alert threshold yesterday. ~我们昨天提高了告警阈值。
+306|Can we agree on the success criteria?~我们能商定成功标准吗？
+307|This is our last open issue. ~这是我们最后一个待解决问题。
+308|What is the remaining risk?~还剩什么风险？
+309|Thank you for your time today. ~谢谢你今天抽出时间。
+310|I'll send a follow-up email tomorrow. ~我明天会发跟进邮件。
+311|I'll keep you updated this week. ~我这周会随时向你同步进展。
+312|Does the support boundary include cabling?~支持范围包括线缆吗？
+313|Our managed switch serves the cameras. ~我们的网管交换机连接摄像头。
+314|This frame carries a VLAN tag. ~这个帧带有 VLAN 标签。
+315|Which native VLAN does this trunk use?~这条中继使用哪个原生 VLAN？
+316|The new phones need a larger PoE budget. ~新电话需要更大的 PoE 供电预算。
+317|What per-port power can this switch supply?~这台交换机单端口可提供多大功率？
+318|We need more uplink capacity for video. ~我们的视频业务需要更大的上联容量。
+319|This SFP module fits the uplink port. ~这个 SFP 模块适配上联端口。
+320|We enabled LACP at both ends. ~我们在两端启用了 LACP。
+321|The installer checked loop protection. ~安装商检查了环路保护。
+322|The port error counter keeps rising. ~端口错误计数一直在增加。
+323|Can we check the MAC address table?~我们能看一下 MAC 地址表吗？
+324|We enabled storm control on these ports. ~我们在这些端口上启用了风暴控制。
+325|Our video network uses IGMP snooping. ~我们的视频网络使用 IGMP 侦听。
+326|What forwarding capacity do you need?~你们需要多大的转发容量？
+327|Fan noise bothers our receptionist. ~风扇噪声影响前台接待员。
+328|We have limited rack space. ~我们的机架空间有限。
+329|This switch has one power supply. ~这台交换机有一个电源。
+330|What port count do you need?~你们需要多少个端口？
+331|Our budget limit is five hundred pounds. ~我们的预算上限是五百英镑。
+332|Does the total cost include installation?~总费用包括安装吗？
+333|Who manages the purchase process?~谁负责采购流程？
+334|May I clarify the scope first?~我可以先明确一下范围吗？
+335|Let's prioritize the needs together. ~我们一起排一下需求优先级吧。
+336|We should compare like for like. ~我们应该在相同条件下比较。
+337|Do you have a dietary preference?~你有什么饮食偏好吗？
+338|Do you have a local recommendation for lunch?~你能推荐附近吃午饭的地方吗？
+339|Please make yourself comfortable. ~请随意，坐得舒服些。
+340|I'll send the meeting agenda tonight. ~我今晚会发送会议议程。
+341|The pilot rollout starts on Monday. ~试点部署周一开始。
+342|Let me confirm my understanding. ~让我确认一下我的理解。
+343|We recorded the lessons learned after the pilot. ~试点结束后我们记录了经验教训。
+344|Can I check in with you tomorrow?~我明天可以再联系你吗？
+345|May I have your permission to record?~我可以录音吗？
